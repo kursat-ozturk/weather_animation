@@ -1,16 +1,18 @@
-# weather_animation
+# Flutter weather_animation
 
-A new Flutter project.
+## 🛠 Packages, References:
 
-## Getting Started
+- Flutter: https://docs.flutter.dev/
+- Dart: https://dart.dev/guides
+- Flutter Spinkit: https://pub.dev/packages/flutter_spinkit
+- Http: https://pub.dev/packages/http
+- Geolocator: https://pub.dev/packages/geolocator
+- Geocoding: https://pub.dev/packages/geocoding
+- Lottie: https://pub.dev/packages/lottie
 
-This project is a starting point for a Flutter application.
+- Lottie Animations: LottieFiles/@jochang
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Video:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/kursat-ozturk/weather_animation/assets/69029656/1da0b2f8-9b09-4601-8f0b-4e357b57fcd9
